@@ -10,4 +10,9 @@
   border-radius: 3px;
   text-decoration: none;
   padding: 5px 10px;
+  @media screen and (min-width: 890px) {
+    width: 57%;
+    height: 49px;
+
+  }
 }
